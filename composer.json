@@ -1,0 +1,21 @@
+{
+  "name": "jthistlethwaite/fast-table",
+  "description": "Class for generating server-rendered tables with sort, search, export, and pager",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0"
+  },
+  "authors": [
+    {
+      "name": "Jason Thistlethwaite",
+      "email": "jason.thistlethwaite@gmail.com"
+    }
+  ],
+  "version": "stable",
+  "autoload": {
+    "psr-4": {
+      "jthistlethwaite\\FastTable\\" : "src"
+    }
+  }
+}
